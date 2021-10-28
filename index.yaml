@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
+  javaweb:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-28T16:54:53.717422285-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 507471dc3281b2ffd2b744146a8aa0e85825ccbc65c20ac1649d61ddfad7d7d8
+    name: javaweb
+    type: application
+    urls:
+    - https://landmark25.github.io/helmchartsprac/javaweb-0.1.0.tgz
+    version: 0.1.0
   springboot:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-22T09:26:27.3296528Z"
+    created: "2021-10-28T16:54:53.718004752-04:00"
     description: A Helm chart for Kubernetes
-    digest: 86c3503388e4ec7882bd5b5b452527783ad9d1de84241de6839875bf520e0ba1
+    digest: 855739ced489e4602f135f26cad4a678014ed27e278cc7acfbfca33273d1247d
     name: springboot
     type: application
     urls:
     - https://landmark25.github.io/helmchartsprac/springboot-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-22T09:26:27.328181397Z"
+generated: "2021-10-28T16:54:53.716628403-04:00"
